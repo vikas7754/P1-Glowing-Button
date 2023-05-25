@@ -19,7 +19,7 @@
 </div>
 <hr/>
 
-# Ripple Button
+# Glowing Button
 
 <div align="center">
 <h2>View Demo</h2>
