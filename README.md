@@ -24,7 +24,7 @@
 <div align="center">
 <h2>View Demo</h2>
   <a href="https://freecodez.com/codecraft/admin/646dacd5bde4c9655453bfa8/">
-      <img src="https://res.cloudinary.com/freecodez/image/upload/v1685038469/other/qsafegwvp3zv9vaq5pjw. webp" height="100" alt="demo"  />
+      <img src="https://res.cloudinary.com/freecodez/image/upload/v1685038469/other/qsafegwvp3zv9vaq5pjw.webp" height="100" alt="demo"  />
   </a>
 <a href="https://freecodez.com/codecraft/admin/646dacd5bde4c9655453bfa8/" target="_blank">
     <img src="https://res.cloudinary.com/freecodez/image/upload/v1685040354/other/ldo3ebg2csbi21uug9dd.webp" height="100%" alt="demo"  />
